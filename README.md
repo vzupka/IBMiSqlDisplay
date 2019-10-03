@@ -1,11 +1,11 @@
-# IBMiSqlRead
+# IBMiSqlDisplay
 IBM i SQL Display Files
 
 Created by Vladimír Župka, 2019
 
 vzupka@gmail.com
 
-This project is not installed, it is ready to use as a Java application in the directory of the project. The application requires Java SE 8 installed in PC.
+This project is not installed, it is ready to use as a Java application in the directory of the project. The application requires Java SE 8 or higher installed in PC.
 
 User documentation can be found in the subdirectories "documents" and "helpfiles".
 
@@ -21,7 +21,7 @@ Version 01.01
 
 - - - - - - - - - - 
 
-Tento projekt se neinstaluje, je okamžitě k použití jako Java aplikace v adresáři projektu. Aplikace vyžaduje instalaci Javy SE 8 v PC.
+Tento projekt se neinstaluje, je okamžitě k použití jako Java aplikace v adresáři projektu. Aplikace vyžaduje instalaci Javy SE 8 nebo vyšší v PC.
 
 Uživatelská dokumentace je k dispozici v podadresářích "documents" a "helpfiles".
 
